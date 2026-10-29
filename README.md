@@ -1,7 +1,9 @@
 # advokatenbby
 
 > 👋 I enjoy building apps that make my life easier and hopefully help others too.
+> 
 > 💻 I love bringing my ideas to life, experimenting, and learning along the way.
+> 
 > 🚀 Always curious, always building, and always looking for something new to create.
 
 ---
