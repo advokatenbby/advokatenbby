@@ -7,7 +7,7 @@
 > 🚀 Always curious, always building, and always looking for something new to create.
 
 ---
-“Building things I wish existed.”
+###### *“Building things I wish existed.”*
 ---
 
 ### Languages
