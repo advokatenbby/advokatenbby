@@ -7,8 +7,6 @@
 > 🚀 Always curious, always building, and always looking for something new to create.
 
 ---
-###### *“Building things I wish existed.”*
----
 
 ### Languages
 
@@ -20,4 +18,6 @@
 <img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
 <img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
             
-          
+---
+###### *“Building things I wish existed.”*
+---       
